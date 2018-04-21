@@ -1,0 +1,21 @@
+name: ClashOfMC
+main: com.sistancecoding.comc.Core
+version: 1.0
+author: [OhhPickles,SistanceCoding]
+website: http://clashofmc.com
+description: Clash Of MC Core Plugin
+commands:
+   list:
+   clash:
+   setspawn:
+   spawn:
+   lookup:
+   gems:
+   broadcast:
+   bc:
+   gold:
+   elixir:
+   ban:
+   help:
+   livestream:
+   livestreaming:
